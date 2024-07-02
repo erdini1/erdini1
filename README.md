@@ -2,7 +2,7 @@
 <h3 align="center">Un desarrollador Full-Stack de Argentina.</h3>
 
 
-- 🔭 Actualmente me encuentro trabajando en Proyecto Nahuel. Con el [BackEnd](https://github.com/erdini1/proyecto-nahuel-backend) y con el [FrontEnd](https://github.com/erdini1/proyecto-nahuel-frontend)
+- 🔭 Actualmente me encuentro trabajando en Proyecto Nahuel. Con [BackEnd](https://github.com/erdini1/proyecto-nahuel-backend) y [FrontEnd](https://github.com/erdini1/proyecto-nahuel-frontend)
 
 - 🌱 Estoy aprendiendo **TypeScript**
 
